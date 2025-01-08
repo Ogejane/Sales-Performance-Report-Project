@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Analysis (Excel Project)
 ### Project Overview
 
 This project aims to provide insights into customer behaviour, sales trends, and product performance by analyzing revenue trends, state contributions, and age demographics. These insights will guide the company's strategic decisions moving forward.
@@ -10,8 +10,6 @@ The primary data source used for this analysis is the "Sales data" file, contain
 ### Tools
 
 - Excel - Data cleaning
-  
-- PowerBI - Creating a report
 
 
 ## Data Cleaning 
@@ -26,12 +24,13 @@ The following tasks were performed during data cleaning and preparation;
 
 1. Calculate the total revenue generated from sales.
 
-2. Categorize customers into the following age groups:
+2. Categorize customers into the following age groups: (Using nested IF Formular)
  - 18-30: Young Adult
  - 31-40: Adult
  - 41-49: Middle-aged Adult
  - 50 and above: Senior
-   
+
+      
 3. Identify the month in which Vintage Couture generated the highest revenue.
 
 4. Determine which age group contributes the highest revenue
